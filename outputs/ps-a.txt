@@ -1,0 +1,4 @@
+CONTAINER ID   IMAGE         COMMAND                  CREATED          STATUS                      PORTS     NAMES
+cb874c42eaa6   alpine        "/bin/sh"                8 minutes ago    Exited (0) 2 minutes ago              alpine-it-demo
+424ccad37c8b   alpine        "echo 'hello from al…"   11 minutes ago   Exited (0) 11 minutes ago             musing_rosalind
+ea122fcd9f5c   hello-world   "/hello"                 14 minutes ago   Exited (0) 14 minutes ago             charming_sanderson

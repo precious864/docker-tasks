@@ -1,0 +1,18 @@
+=== Docker Tasks Checker (GitHub Codespaces) ===
+✅ Task 1: Docker engine reachable
+✅ Task 2: hello-world present/used
+✅ Task 3: alpine present/used
+✅ Task 4: alpine-it-demo container exists
+✅ Task 5: /lab/dir1 and /lab/dir2 exist in alpine-it-demo
+✅ Task 6: outputs/ps-a.txt saved and lists alpine-it-demo
+✅ Task 7: static-site-2 is running and mapped to host port 8888
+✅ Task 8: HTTP response received on 127.0.0.1:8888
+✅ Task 9: outputs/inspect-static-site-2.txt saved and contains AUTHOR env var
+✅ Task 10: outputs/static-site-2-logs.txt saved
+✅ Task 11: outputs/images.txt saved and lists required images
+❌ Task 12: redis-demo not running and/or not based on the redis image
+✅ Task 13: outputs/redis-ping.txt saved and contains PONG
+✅ Task 14: outputs/hostname-copy.txt copied out of a container
+✅ Task 15: docker stop and docker rm work
+----------------------------------------
+SCORE: 14/15

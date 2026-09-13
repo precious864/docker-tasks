@@ -1,0 +1,4 @@
+IMAGE                              ID             DISK USAGE   CONTENT SIZE   EXTRA
+alpine:latest                      28bd5fe8b56d         13MB         3.93MB   U    
+dockersamples/static-site:latest   daa686c61d7d        293MB         74.9MB   U    
+hello-world:latest                 5e2309035332       25.9kB         9.49kB   U    
